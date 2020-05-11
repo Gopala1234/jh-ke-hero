@@ -1,0 +1,7 @@
+void divide(int a,int b)
+{
+ int num1,num2;
+ float result;
+ result=num1/num2;
+ return result;
+}
