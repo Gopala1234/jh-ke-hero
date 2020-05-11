@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+#include<iostream.h>
+#include<math.h>
+
+int main(int a,int b)
+{
+ int multiplication;
+ int num1,num2;
+ multiplication=num1*num2;
+ return(num1*num2);
+ getch(0);
+ }
